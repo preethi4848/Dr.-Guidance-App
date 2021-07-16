@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">58109508964-9p5osmcdpnhn1lp9l00k96591gk1icvf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">58109508964</string>
+    <string name="google_api_key" translatable="false">AIzaSyDUv4hjgG60cjc2nPLdJPU8eCLQyEZlnfQ</string>
+    <string name="google_app_id" translatable="false">1:58109508964:android:caaa1335127702e1bb8e71</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDUv4hjgG60cjc2nPLdJPU8eCLQyEZlnfQ</string>
+    <string name="google_storage_bucket" translatable="false">dr-guidance-app.appspot.com</string>
+    <string name="project_id" translatable="false">dr-guidance-app</string>
+</resources>
